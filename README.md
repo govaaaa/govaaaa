@@ -3,5 +3,3 @@
 ```
 github.com/govaaaa
 dc  gova#0001
-
-![](https://komarev.com/ghpvc/?username=govaaaa)
